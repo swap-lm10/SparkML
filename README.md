@@ -37,9 +37,6 @@ Experiment with different hyperparameters and feature engineering techniques to 
 Contributing
 Contributions are welcome! Please feel free to open an issue or pull request if you have any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 If you have any questions or comments about this project, you can reach me at swapnilbhoite@live.com.
 
