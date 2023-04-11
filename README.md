@@ -2,7 +2,7 @@
 This is a project that demonstrates how to perform machine learning with Apache Spark using Jupyter Notebooks. In this project, we will use Spark's MLlib library to build a binary classification model that predicts area according to the rental price.
 
 ## Dataset
-We will be using the Ireland rental data. This dataset contains information about Ireland's rent according to county location, as well as type of house, no of bedrooms etc. The file IrelandRentalData.csv.zip in this repository contains a cleaned version of the dataset that we will use for this project.
+We will be using the Ireland rental data. This dataset contains information about Ireland's rent according to county location, as well as type of house, no of bedrooms etc. The file ]IrelandRentalData.csv.zip](https://github.com/swap-lm10/SparkML/blob/main/IrelandRentalData.csv.zip) in this repository contains a cleaned version of the dataset that we will use for this project.
 
 ## Installation
 1. Clone the repo
