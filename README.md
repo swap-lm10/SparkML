@@ -5,11 +5,11 @@ Dataset
 We will be using the Ireland rental data. This dataset contains information about Ireland's rent according to county location, as well as type of house, no of bedrooms etc. The file IrelandRentalData.csv.zip in this repository contains a cleaned version of the dataset that we will use for this project.
 
 Installation
-Clone the repo
+1. Clone the repo
 ````
 git clone https://github.com/swap-lm10/Spark-Machine-Learning.git
 ````
-Install Anaconda or Miniconda (if not already installed)
+2. Install Anaconda or Miniconda (if not already installed)
 ````
 # For Anaconda
 https://www.anaconda.com/products/individual
@@ -18,14 +18,14 @@ https://www.anaconda.com/products/individual
 https://docs.conda.io/en/latest/miniconda.html
 ````
 
-Create a new conda environment and install the required packages
+3. Create a new conda environment and install the required packages
 ````
 conda create --name sparkml python=3.7
 conda activate sparkml
 conda install -c conda-forge pyspark=3.1.1 findspark jupyterlab pandas numpy matplotlib seaborn
 ````
 
-Start Jupyter Notebook
+4. Start Jupyter Notebook
 ````
 jupyter notebook
 ````
